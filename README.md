@@ -1,4 +1,3 @@
 # IRC
-# irc means interdisciplinary
 hello
-
+how are you :)
